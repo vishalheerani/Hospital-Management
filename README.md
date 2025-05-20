@@ -1,4 +1,4 @@
-# Hospital-Management
-Hospital Management Software
+# Hospital-Management-Html
+A decent Hospital Management System which is created using Html, css and Bootstrap.
 
-Complete Hospital Managment Software
+You can check it out from here - https://nirravv.github.io/Hospital-Management-Html/
